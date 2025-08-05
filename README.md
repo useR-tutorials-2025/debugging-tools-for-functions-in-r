@@ -57,7 +57,7 @@ of Data Science at The Prostate Cancer Clinical Trials Consortium, an occasional
 and a member of the R-Ladies Global leadership team. She enjoys automating data wrangling 
 and data outputs, and making both data insights and learning new material digestible.
 
-[E. David Aja](https://edavidaja.com/) is a Solutions Engineer at Posit. 
+[E. David Aja](https://edavidaja.com/) is a Software Engineer at Posit. 
 Before joining Posit, he worked as a data scientist in the public sector.
 
 
