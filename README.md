@@ -25,8 +25,8 @@ _Target audience:_ Individuals with experience writing functions but new to debu
 ## Pre-work
 
 1. Please have a recent version of R and RStudio installed.
-- R >= 4.2
-- RStudio >= 2024.04.1+748
+- R ≥ 4.2
+- RStudio ≥ 2024.04.1+748
 
 2. Install the following packages: 
 `install.packages(c("usethis", devtools", "rlang"))`
