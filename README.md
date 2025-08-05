@@ -28,7 +28,8 @@ _Target audience:_ Individuals with experience writing functions but new to debu
 - R >= 4.2
 - RStudio >= 2024.04.1+748
 
-2. Install the following packages: `install.packages(c("usethis", devtools"))`
+2. Install the following packages: 
+`install.packages(c("usethis", devtools"))`
 
 3. Please make sure your system is ready to build packages. You can 
 confirm this by checking if `devtools::has_devel()` returns `Your system is ready to build packages!`. 
