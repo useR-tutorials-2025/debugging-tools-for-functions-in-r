@@ -1,6 +1,15 @@
 
 # Debugging Tools for Functions in R
 
+-----
+
+:spiral_calendar: August 8, 2024  
+:alarm_clock:     08:30 - 10:00; break; 10:30-12:00
+:hotel:           Penn Garden
+:writing_hand:    <https://user2025.r-project.org/program/in-person/>
+
+-----
+
 ## Overview
 
 _Description:_
