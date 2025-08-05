@@ -8,7 +8,7 @@ _Description:_
 If you write functions but are unsure of efficient strategies to identify the 
 source of errors then join this workshop to unlock your programming superpower 
 with debugging techniques! In this workshop, we will review code troubleshooting tips, 
-discuss debugging functions (traceback(), browser(), debug(), trace(), and recover()), 
+discuss debugging functions (`traceback()`, `browser()`, `debug()`, `trace()`, and `recover()`), 
 and distinguish between strategies for debugging your own code versus someone else’s code.
 
 _Learning goals:_
@@ -29,7 +29,7 @@ _Target audience:_ Individuals with experience writing functions but new to debu
 - RStudio >= 2024.04.1+748
 
 2. Install the following packages: 
-`install.packages(c("usethis", devtools"))`
+`install.packages(c("usethis", devtools", "rlang"))`
 
 3. Please make sure your system is ready to build packages. You can 
 confirm this by checking if `devtools::has_devel()` returns `Your system is ready to build packages!`. 
